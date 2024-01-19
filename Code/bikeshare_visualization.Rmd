@@ -35,7 +35,7 @@ library(extrafont)
 
 ```{r message=FALSE, warning=FALSE, include=FALSE}
 # Read the CSV file
-bikeshare <- read_csv("data/bikesharedailydata.csv")
+bikeshare <- read_csv("../Data/bikesharedailydata.csv")
 ```
 
 ```{r message=FALSE, warning=FALSE, include=FALSE}
@@ -382,4 +382,8 @@ ggplot(bikeshare_2012_long, aes(x = date, y = count, fill = type, group = type))
 
 
 
+
+```{r}
+rmarkdown::render("bikeshare_visualization.Rmd", output_format = "github_document")
+```
 

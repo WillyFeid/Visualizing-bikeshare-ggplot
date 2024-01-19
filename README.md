@@ -11,37 +11,37 @@ Several types of visualizations have been created to analyze the dataset:
 
 **Density Plot**:
 
-<img src="Plots/Density-plot.png" width="500">
+<img src="Plots/Density-plot.png" width="800">
 
 ---
 
 
-<img src="Plots/hist.png" width="500">
+<img src="Plots/hist.png" width="800">
 
 ---
 
 
-<img src="Plots/bar-month.png" width="500">
+<img src="Plots/bar-month.png" width="800">
 
 ---
 
 
-<img src="Plots/bar-month.png" width="500">
+<img src="Plots/bar-month.png" width="800">
 
 ---
 
 
-<img src="Plots/timeseries.png" width="500">
+<img src="Plots/timeseries.png" width="800">
 
 ---
 
 
-<img src="Plots/scatter.png" width="500">
+<img src="Plots/scatter.png" width="800">
 
 ---
 
 
-<img src="Plots/area.png" width="500">
+<img src="Plots/area.png" width="800">
 
 ---
 
